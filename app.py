@@ -29,7 +29,7 @@ st.header("Hinglish-English Translator")
 st.subheader("Please enter your text!")
 st.text("")
 
-input = st.text_area("Enter here")
+input = st.text_area("Enter here","Please timer ko rokey")
 
 if st.button('Check Now!'):
     #transformed_sms = transform_text(input)
