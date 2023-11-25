@@ -1,4 +1,6 @@
 # Hinglish-Transformer
+![image](https://github.com/RohanHBTU/Hinglish-Transformer/assets/97730338/5be259da-6383-4af6-96a3-f90ede7be0e3)
+
 It uses a Encoder-Decoder architecture with Bahdanau attention mechanism using GRU RNN cell. This has been tested and resulted with a mean BLEU score of 50%.
 
 To setup this repo into your local machine:
